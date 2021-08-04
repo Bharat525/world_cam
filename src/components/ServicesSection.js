@@ -31,28 +31,28 @@ const ServicesSection = () => {
               <img src={clock} alt="" />
               <h3>Efficient</h3>
             </div>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>A good photographer must have a very keen eye for detail to ensure that all elements within the photo.</p>
           </Card>
           <Card>
             <div className="icon">
               <img src={teamwork} alt="" />
               <h3>Teamwork</h3>
             </div>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>that people will try to cooperate, using their individual skills and providing constructive feedback.</p>
           </Card>
           <Card>
             <div className="icon">
               <img src={diaphragm} alt="" />
               <h3>Pro Grade Gear</h3>
             </div>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>The right equipment needed for photographing a wedding can be overwhelming,.</p>
           </Card>
           <Card>
             <div className="icon">
               <img src={money} alt="" />
               <h3>Affordable</h3>
             </div>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Book Your Appoinment for Affordable Photographers.</p>
           </Card>
         </Cards>
       </Description>
